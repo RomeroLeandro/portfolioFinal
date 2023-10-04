@@ -1,0 +1,11 @@
+.scrolling {
+    background: rgba(48, 48, 48, 0.3)!important;
+    backdrop-filter: blur(25px) saturate(200%)!important;
+    -webkit-backdrop-filter: blur(25px) saturate(200%)!important;
+    transition: background 0.3s ease-in-out !important;
+    -webkit-transition: background 0.3s ease-in-out !important;
+    -moz-transition: background 0.3s ease-in-out !important;
+    -ms-transition: background 0.3s ease-in-out !important;
+    -o-transition: background 0.3s ease-in-out !important;
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+}
